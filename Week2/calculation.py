@@ -1,0 +1,11 @@
+# Calculation of sum, difference, product, average, distance, minimum and maximum.
+num1 = int(input("Enter any integer: "))
+num2 = int(input("Enter another integer: "))
+print("")
+print("Sum:", num1 + num2)
+print("Difference:", num1-  num2)
+print("Product:", num1 * num2)
+print("Average:", (num1 + num2) / 2)
+print("Distance:", abs(num1 - num2))
+print("Minimum:", min(num1, num2))
+print("Maximum:", max(num1, num2))
