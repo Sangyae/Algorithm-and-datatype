@@ -1,4 +1,6 @@
 # Name inside box
-FIRST = ("+------------+")
-
-print(FIRST ,"\n","|  BIBEK  |","\n",FIRST)
+FIRST = ("+---------+")
+SEC = "|  BIBEK  |"
+print(FIRST)
+print(SEC)
+print(FIRST)
