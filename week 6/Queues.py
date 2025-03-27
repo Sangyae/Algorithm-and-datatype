@@ -22,7 +22,7 @@ class Queue:
 #    def dequeue(self):
 #        return self.items.pop()
    
-try:
+try:   # error handling code 
     q = Queue()
     q.enqueue(2)
     q.enqueue(4)
